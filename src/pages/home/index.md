@@ -1,9 +1,9 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
-  imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
+  image: /img/orestispantazos.png
+  imageAlt: Orestis Pantazos - DevOps Engineer
+title: Orestis Pantazos - DevOps Engineer
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
@@ -16,13 +16,12 @@ callToActions:
   secondCTA:
     heading: Volunteer to Present
     linkType: external
-    linkURL: 'mailto:contact@js-wakanda.org'
-    subHeading: Want to present at an upcoming meetup? Contact us.
+    linkURL: 'mailto:opantazos@gmail.com'
+    subHeading: Want to learn new coding techniques via tutorials online? Contact us.
 seo:
-  browserTitle: JS Wakanda
+  browserTitle: Orestis Pantazos - DevOps Engineer
   description: >-
-    JavaScript meetup group in Wakanda where JavaScript developers get together
-    for presentations and to meet others in the community.
-  title: JavaScript Wakanda
+    Orestis Pantazos - DevOps Engineer.
+  title: Orestis Pantazos - DevOps Engineer
 ---
 
